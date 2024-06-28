@@ -11,5 +11,6 @@ This assignment involves the development of a Python program utilizing CSV file 
 </p>
 
 <p  align="center">
+  
 ![showcase](./assigment-showcase.gif)
 </p>
