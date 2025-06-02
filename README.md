@@ -1,5 +1,4 @@
-<h1 align="center">Problem Solving Assignment - Year One
-Solent University
+<h1 align="center">CSV HANDLER
 </h1>
 <br/>
 <h2 align="center">
